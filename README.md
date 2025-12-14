@@ -182,18 +182,18 @@ A **logistic regression–based TinyML model** is deployed on an **SPDuino micro
 
 ---
 
-## 📌 Notes
+## 📌 Article Reference
 
-- This repository is **educational**
-- Models are intentionally lightweight
-- Ideal for **lab demos and learning**
-- Cloud is used only for **training**, not inference
+For a detailed conceptual explanation, implementation walkthrough, and demo insights on **TinyML & Edge AI with on-device diabetes risk prediction using Arduino**, refer to the following LinkedIn article:
+
+🔗 **TinyML & Edge AI: On-Device Diabetes Risk Prediction using Arduino**  
+https://www.linkedin.com/pulse/tinyml-edge-ai-on-device-diabetes-risk-prediction-arduino-rachel-1h1fc
 
 ---
 
 ## Support & Connect
 
-If you find this repository helpful:
+If you find this repository helpful: 
 - ⭐ Star the repo
 - 🍴 Fork it
 - 📢 Share with peers
